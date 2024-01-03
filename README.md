@@ -31,4 +31,4 @@ hkjhkjhk<br>
   
 </table>
 
-<img alt="1.jpg" src="images/gallery/1.jpg">
+<img alt="1.jpg" src="pic/101.jpg">
